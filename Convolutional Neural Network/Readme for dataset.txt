@@ -1,0 +1,1 @@
+download fashion mnist datasset from kaggle
